@@ -1,9 +1,9 @@
 # URL Based Archive Search
 
-A tool for querying and retrieving archived pages from the `*.secret.app` domain using the Internet Archive’s CDX API.
+A tool for querying and retrieving archived pages from the `*<target>` domain using the Internet Archive’s CDX API.
 
 
-This project allows users to search for and extract archived pages from the `*.secret.app` domain using the Internet Archive's CDX API. It is useful for researchers, security analysts, and anyone interested in the historical data of the Secret App website.
+This project allows users to search for and extract archived pages from the `*.<target>` domain using the Internet Archive's CDX API. It is useful for researchers, security analysts, and anyone interested in the historical data of the Secret App website.
 
 ## Features
 
